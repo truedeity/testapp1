@@ -1,0 +1,22 @@
+## Ignore Visual Studio temporary files
+*_i.c
+*_p.c
+*.aps
+*.ncb
+*.scc
+
+## Ignore Visual Studio cache and settings files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+## Ignore build outputs
+bin/
+obj/
+
+## Ignore NuGet packages
+packages/
+
+## Ignore .NET user secrets
+secrets.json
